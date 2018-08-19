@@ -1,0 +1,17 @@
+body{
+    max-width: 960px;
+    background-image: url("https://via.placeholder.com/960x800");
+    background-repeat: no-repeat;
+    margin: auto;
+    position: relative;
+}
+.container{
+    max-width: 500px;
+    max-height: 700px;
+    background-color: black;
+    opacity: 0.6;
+    color: white;
+    position: absolute;
+    top: 20px; 
+    right: 20px;
+}
